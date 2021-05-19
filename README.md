@@ -1,2 +1,2 @@
 # Prison-Management-System
-Web application 
+Designed Prison Management System using DBMS concepts and web tools 
